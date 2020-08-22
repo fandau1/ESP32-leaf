@@ -11,3 +11,6 @@ The repository contains the original Inkscape SVG and pdf files.
 There are 2 versions of the Leaf (smaller and larger)
 
 <img src="esp32-devkit-v1/esp32-devkit-v1-1.png" height="400" />   <img src="esp32-devkit-v1/esp32-devkit-v1-2.png" height="400" />
+
+## Support
+If you want more version ESP32 Leaf please give me a :star:.
