@@ -9,3 +9,5 @@ The repository contains the original Inkscape SVG and pdf files.
 
 ## ESP32 DEVKIT-V1 DOIT (30 pins)
 There are 2 versions of the Leaf (smaller and larger)
+
+<img src="esp32-devkit-v1/esp32-devkit-v1-1.png" height="400" />   <img src="esp32-devkit-v1/esp32-devkit-v1-2.png" height="400" />
