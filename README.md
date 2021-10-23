@@ -3,7 +3,7 @@ esp32-leaf pinout description
 
 Print it, poke holes in it and slip it over pins on your ESP32.
 
-The ESP32 is too big to fit in one bradboard. So I decided to fix with the leaf, which I saw on the raspberry pi.
+The ESP32 is too big to fit in one breadboard. So I decided to fix with the leaf, which I saw on the raspberry pi.
 
 **Boards:** ESP32 DEVKIT-V1 DOIT 30 pins, ESP32 DEVKIT-V1 DOIT 36 pins
 
